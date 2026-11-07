@@ -9,4 +9,4 @@ int main()
 }
 ```
 
-![self](assets/pic/self.png)
+![self](pic/self.png)
